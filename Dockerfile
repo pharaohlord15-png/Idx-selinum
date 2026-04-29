@@ -1,4 +1,9 @@
-python3 -m venv /opt/venv
-. /opt/venv/bin/activate
-pip install --upgrade pip
-pip install -r requirements.txt
+FROM python:3.11-slim
+
+WORKDIR /app
+
+COPY . .
+
+RUN pip install --no-cache-dir -r requirements.txt
+
+CMD ["python", "main.py"]
