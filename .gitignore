@@ -1,0 +1,19 @@
+# Profile and session data
+portable_chrome_profile/
+*.log
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyc
+.Python
+
+# Environment
+.env
+
+# WebDriver Manager cache
+.wdm/
+
+# OS
+.DS_Store
+Thumbs.db
