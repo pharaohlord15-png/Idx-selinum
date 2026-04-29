@@ -1,0 +1,68 @@
+2026/04/28-03:28:09.989 10a8 Reusing MANIFEST C:\Users\England\Documents\VPS\portable_chrome_profile\Default\WebStorage\1\IndexedDB\indexeddb.leveldb/MANIFEST-000001
+2026/04/28-03:28:09.990 10a8 Recovering log #52
+2026/04/28-03:28:09.992 10a8 Reusing old log C:\Users\England\Documents\VPS\portable_chrome_profile\Default\WebStorage\1\IndexedDB\indexeddb.leveldb/000052.log 
+2026/04/28-03:28:18.119 3d98 Compacting 1@0 + 1@1 files
+2026/04/28-03:28:18.132 3d98 Generated table #55@0: 2378 keys, 116663 bytes
+2026/04/28-03:28:18.132 3d98 Compacted 1@0 + 1@1 files => 116663 bytes
+2026/04/28-03:28:18.133 3d98 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/04/28-03:28:18.133 3d98 Delete type=2 #51
+2026/04/28-03:28:18.134 3d98 Delete type=2 #53
+2026/04/28-09:32:47.550 10a8 Compacting 1@1 + 1@2 files
+2026/04/28-09:32:47.745 10a8 Generated table #56@1: 412 keys, 153865 bytes
+2026/04/28-09:32:47.746 10a8 Compacted 1@1 + 1@2 files => 153865 bytes
+2026/04/28-09:32:47.750 10a8 compacted to: files[ 0 0 1 0 0 0 0 ]
+2026/04/28-09:32:47.751 10a8 Delete type=2 #30
+2026/04/28-09:32:47.751 10a8 Delete type=2 #55
+2026/04/28-09:34:31.500 2418 Level-0 table #58: started
+2026/04/28-09:34:31.541 2418 Level-0 table #58: 1850133 bytes OK
+2026/04/28-09:34:31.544 2418 Delete type=0 #52
+2026/04/28-09:37:52.878 10a8 Compacting 1@1 + 1@2 files
+2026/04/28-09:37:52.929 10a8 Generated table #59@1: 432 keys, 126175 bytes
+2026/04/28-09:37:52.930 10a8 Compacted 1@1 + 1@2 files => 126175 bytes
+2026/04/28-09:37:52.933 10a8 compacted to: files[ 0 0 1 0 0 0 0 ]
+2026/04/28-09:37:52.935 10a8 Delete type=2 #56
+2026/04/28-09:37:52.937 10a8 Delete type=2 #58
+2026/04/28-09:41:52.674 2418 Level-0 table #61: started
+2026/04/28-09:41:52.700 2418 Level-0 table #61: 1310129 bytes OK
+2026/04/28-09:41:52.702 2418 Delete type=0 #57
+2026/04/28-09:45:39.937 10a8 Compacting 1@1 + 1@2 files
+2026/04/28-09:45:39.962 10a8 Generated table #62@1: 432 keys, 137126 bytes
+2026/04/28-09:45:39.962 10a8 Compacted 1@1 + 1@2 files => 137126 bytes
+2026/04/28-09:45:39.964 10a8 compacted to: files[ 0 0 1 0 0 0 0 ]
+2026/04/28-09:45:39.966 10a8 Delete type=2 #59
+2026/04/28-09:45:39.966 10a8 Delete type=2 #61
+2026/04/28-10:13:54.723 2418 Level-0 table #64: started
+2026/04/28-10:13:54.830 2418 Level-0 table #64: 4091934 bytes OK
+2026/04/28-10:13:54.836 2418 Delete type=0 #60
+2026/04/28-10:22:46.613 2418 Level-0 table #66: started
+2026/04/28-10:22:46.642 2418 Level-0 table #66: 3832977 bytes OK
+2026/04/28-10:22:46.644 2418 Delete type=0 #63
+2026/04/28-10:29:12.705 10a8 Compacting 1@0 + 1@1 files
+2026/04/28-10:29:12.718 10a8 Generated table #67@0: 874 keys, 55987 bytes
+2026/04/28-10:29:12.718 10a8 Compacted 1@0 + 1@1 files => 55987 bytes
+2026/04/28-10:29:12.720 10a8 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/04/28-10:29:12.721 10a8 Delete type=2 #64
+2026/04/28-10:29:12.721 10a8 Delete type=2 #66
+2026/04/28-10:29:50.046 2418 Level-0 table #69: started
+2026/04/28-10:29:50.078 2418 Level-0 table #69: 3800031 bytes OK
+2026/04/28-10:29:50.080 2418 Delete type=0 #65
+2026/04/28-10:36:04.995 2418 Level-0 table #71: started
+2026/04/28-10:36:05.036 2418 Level-0 table #71: 3742991 bytes OK
+2026/04/28-10:36:05.038 2418 Delete type=0 #68
+2026/04/28-10:41:43.390 2418 Level-0 table #73: started
+2026/04/28-10:41:43.464 2418 Level-0 table #73: 3753936 bytes OK
+2026/04/28-10:41:43.467 2418 Delete type=0 #70
+2026/04/28-10:44:32.080 10a8 Compacting 3@0 + 1@1 files
+2026/04/28-10:44:32.109 10a8 Generated table #74@0: 1622 keys, 84820 bytes
+2026/04/28-10:44:32.109 10a8 Compacted 3@0 + 1@1 files => 84820 bytes
+2026/04/28-10:44:32.110 10a8 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/04/28-10:44:32.111 10a8 Delete type=2 #67
+2026/04/28-10:44:32.111 10a8 Delete type=2 #69
+2026/04/28-10:44:32.111 10a8 Delete type=2 #71
+2026/04/28-10:44:32.111 10a8 Delete type=2 #73
+2026/04/28-10:46:55.292 2418 Level-0 table #76: started
+2026/04/28-10:46:55.319 2418 Level-0 table #76: 3723595 bytes OK
+2026/04/28-10:46:55.321 2418 Delete type=0 #72
+2026/04/28-10:51:27.426 2418 Level-0 table #78: started
+2026/04/28-10:51:27.459 2418 Level-0 table #78: 3676750 bytes OK
+2026/04/28-10:51:27.461 2418 Delete type=0 #75
